@@ -1,1 +1,12 @@
-./air
+# 项目端口
+port: 4010
+# 镜像输出目录
+distDir: ./dist/
+# 静态文件目录
+staticDir: ./static/
+# log目录
+logDir: ./log/
+# 清理dist时间 单位小时
+clearDistTime: 6
+# 阿里云镜像地址 https://xxxxxx.mirror.aliyuncs.com
+registry: hub.docker.com
