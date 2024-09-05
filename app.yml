@@ -9,4 +9,4 @@ logDir: ./log/
 # 清理dist时间 单位小时
 clearDistTime: 6
 # 阿里云镜像地址 https://xxxxxx.mirror.aliyuncs.com
-registry: xxxxxx.mirror.aliyuncs.com
+registry: hub.docker.com
